@@ -5,7 +5,7 @@
 <<<<<<< HEAD
      <title>HTML Application New Version from branch1 new</title>
 =======
-    # <title>HTML Application New Version from branch2 new</title>
+     <title>HTML Application New Version from branch2 new</title>
 >>>>>>> branch2
 	 <link href="css/site.css" rel="stylesheet">
 </head>
