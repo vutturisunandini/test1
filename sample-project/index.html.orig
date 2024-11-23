@@ -3,10 +3,14 @@
 
 <head>
 <<<<<<< HEAD
+<<<<<<< HEAD
      <title>HTML Application New Version from branch1 new</title>
 =======
-     <title>HTML Application New Version from branch2 new</title>
+    # <title>HTML Application New Version from branch2 new</title>
 >>>>>>> branch2
+=======
+     <title>HTML Application New Version from branch1 newly</title>
+>>>>>>> branch1
 	 <link href="css/site.css" rel="stylesheet">
 </head>
 
